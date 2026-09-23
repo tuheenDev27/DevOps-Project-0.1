@@ -52,3 +52,4 @@ elif [ ${platform} == "centos" ]; then
 else 
     echo "platform not supported"
 fi
+# set up package management for the application

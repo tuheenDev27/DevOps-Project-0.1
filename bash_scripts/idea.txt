@@ -1,0 +1,2 @@
+i need one main script that show all 4 script as a oation after select one script that will run 
+create a uer grop for devops related task where  one persion foca on deployment on cicd pipeline. another  foca on kuberntes related thing 
