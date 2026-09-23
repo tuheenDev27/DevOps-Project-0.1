@@ -1,4 +1,4 @@
-# user creatteation script where we  manage users permission, access and maintain 
+# user creatteation script where we create user ,  manage users permission, access and maintain 
 #!/bin/bash
 echo  "this script will adding new users, manage  their permission, password"
 # create new user
