@@ -31,7 +31,7 @@ fi
 
 read docker_imge
 read port_number
-docker run -d -p ${port_number}:${port_number} ${docker_imge}
+sudo docker run -d -p ${port_number}:${port_number} ${docker_imge}
 if [ $? -eq 0 ]; then
     echo "docker container started successfully"
 else
