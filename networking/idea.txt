@@ -1,0 +1,31 @@
+I already start learning in depth of networking for devops and  kubernetes. after complete 1st leacture of devops network on code ar chai i get idea of how think work.
+and knowing  diffrent  topology are heps building solucation of my infasture 
+
+types of network that helps us  for  this project--
+1. PAN
+2. LAN 
+3. MAN
+4 WAN
+
+Network topology that help us to build whole  system 
+1. bus topology
+2. ring topology
+3. start topology
+4. mesh topology
+5. tree topology
+
+network device that help to connecte diffrent device in local as weel as learge area 
+1. NYC
+2. HUB
+3. BRIDGE
+4. SWITCH
+5. ROURTOR
+6. MODEN
+7. GETWAYA
+8. ISP
+9. FIREWALL
+10
+
+USING ABOVE CONCEPT BUILD THIS PROJECT 
+
+
