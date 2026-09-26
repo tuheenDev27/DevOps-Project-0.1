@@ -28,4 +28,4 @@ network device that help to connecte diffrent device in local as weel as learge 
 
 USING ABOVE CONCEPT BUILD THIS PROJECT 
 
-
+today we lrarn about how network suvbnet works packet size 
