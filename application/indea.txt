@@ -1,0 +1,1 @@
+crete a e-comrace application where frontend  split in to two part and backend split base on application feature 
